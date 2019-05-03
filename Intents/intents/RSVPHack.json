@@ -1,0 +1,82 @@
+{
+  "id": "d5a85082-27a9-4fae-8024-d05a8d7b8d10",
+  "name": "RSVPHack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "433247af-9a2a-4432-abf5-b2956572377d",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Claro, para comenzar tu registro. ¿Podrías proporcionarme tu nombre por favor?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Cuál es tu nombre?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d896ae36-8c41-427f-a8f0-7c19778ea4c4",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Muy bien, entonces  ¿Cuantas personas hay en el equipo?"
+            },
+            {
+              "lang": "es",
+              "value": "OK. ¿Cuantos integrantes tiene tu equipo?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "69b70e83-358b-4e11-8d11-07c5bedc10d7",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Excelente, ¿a qué dirección de correo debería enviarte los boletos?"
+            },
+            {
+              "lang": "es",
+              "value": "Gracias. ¿Cual es la dirección de correo a la que enviare los boletos?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Gracias, tu registro se ha realizado con éxito. Nos vemos en el Hackathon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

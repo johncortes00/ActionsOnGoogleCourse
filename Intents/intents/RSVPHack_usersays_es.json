@@ -1,0 +1,154 @@
+[
+  {
+    "id": "c7428d77-4448-4caf-b441-4b8f49277fce",
+    "data": [
+      {
+        "text": "a mi correo ",
+        "userDefined": false
+      },
+      {
+        "text": "hola@hola.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e101bcf-d113-4ae0-966f-8df8d730b996",
+    "data": [
+      {
+        "text": "Al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "hola@cf.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d889fb90-3da4-46fe-9652-6cbf2dee13a2",
+    "data": [
+      {
+        "text": "Mi equipo tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " integrantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46943355-01ef-4254-ac7b-517a1c178326",
+    "data": [
+      {
+        "text": "Somos ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " personas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f403296-b1b8-4d22-96ba-d92973c2b302",
+    "data": [
+      {
+        "text": "Me llamo ",
+        "userDefined": false
+      },
+      {
+        "text": "Fernando",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d983956d-dee3-41e4-b26a-afa36d453819",
+    "data": [
+      {
+        "text": "Mi nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f973e064-5b34-419c-8b16-bb96149576bb",
+    "data": [
+      {
+        "text": "Quiero inscribirme al hackathon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a95aa98-4147-4951-a304-de310b72ab27",
+    "data": [
+      {
+        "text": "Quiero registrarme al evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0de6cb4-b1fb-4368-9f2d-f9db97c33023",
+    "data": [
+      {
+        "text": "Hola, quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleto para el hackathon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
