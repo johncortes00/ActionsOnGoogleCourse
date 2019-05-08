@@ -1,0 +1,128 @@
+[
+  {
+    "id": "c2cfa5b8-724c-4abd-8089-ec0b2ab3790d",
+    "data": [
+      {
+        "text": "cómo vas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "185c311e-2650-4fce-9232-ef51551fcaeb",
+    "data": [
+      {
+        "text": "qué hubo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74236b4e-3839-4eda-9af7-9e27ec42d574",
+    "data": [
+      {
+        "text": "que hubo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4913fc47-e82d-44b3-8ca3-d40c0cc61098",
+    "data": [
+      {
+        "text": "quihubo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e290dc3-0274-465d-bc0e-2f30f0e03081",
+    "data": [
+      {
+        "text": "como vas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1140edc4-d279-49b8-a60c-761c7ad65b8c",
+    "data": [
+      {
+        "text": "entonces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f1a38d6-584e-4f74-ab34-fbc9ba934118",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9489f8a2-a47e-4461-9c56-90c6c26da9d8",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b242de94-57fe-4298-99ca-adb2b39f5aa6",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57787f29-e277-484d-8d86-f708f71b49df",
+    "data": [
+      {
+        "text": "hey ho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c80f71-ac8e-40f1-a4eb-c21b9f461ca1",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
